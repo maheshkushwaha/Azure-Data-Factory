@@ -1,0 +1,17 @@
+{
+	"name": "tri",
+	"properties": {
+		"annotations": [],
+		"runtimeState": "Stopped",
+		"pipelines": [],
+		"type": "ScheduleTrigger",
+		"typeProperties": {
+			"recurrence": {
+				"frequency": "Minute",
+				"interval": 5,
+				"startTime": "2024-01-18T16:36:00",
+				"timeZone": "India Standard Time"
+			}
+		}
+	}
+}
